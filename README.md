@@ -47,3 +47,8 @@ Choose your parameters.
 4. This will take the input from the folder CATENA-finall/data/Example-col/ as the test data and will produce the output(with relations) on the console.
 5. To test accuracy, run Catena-finall\src\catena\embedding\experiments\EvaluateTimeBankDenseCrossVal.java
 6. Voila, we have a working model.
+
+## Links:
+1) Report: https://drive.google.com/file/d/1-7algxf_83vjPCDdSjmik3ztY0BG_-a0/view?usp=sharing
+2) Slides: https://drive.google.com/file/d/1_1xjU0j-snxJ0SSpK3mMGNlvr4HnhdVY/view?usp=sharing   
+   Note: This project was done in conjuction with another model based on KNN data oriented model. Link for the same is: https://github.com/gaganjotshan/Event_Detection
