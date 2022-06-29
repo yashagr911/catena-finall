@@ -15,7 +15,7 @@ This Project is the replication of https://github.com/paramitamirza/CATENA. The 
    wnjpn.db can be found in the following link:
    https://drive.google.com/file/d/1H7BOxzXGV0Y9TRilac6pxWWr6F8lkKEW/view?usp=sharing
    Instrucion: Download the above file. Place it in the directory: CATENA-finall/resourse/wnjpn.db
-3. run the project on intellij. 
+3. Run the file catena-finall\src\catena\Catena.java on a JAVA IDE (we used IntelliJ IDEA). 
  ```
 Choose your parameters.
  -i,--input <arg>        Input TimeML file/directory path
