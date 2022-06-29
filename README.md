@@ -44,6 +44,6 @@ Choose your parameters.
   java -Xmx2G -jar ./target/CATENA-1.0.2.jar -i ./data/example_COL/ --col --tlinks ./data/TempEval3.TLINK.txt --clinks ./data/Causal-TimeBank.CLINK.txt -l ./models/CoNLL2009-ST-English-ALL.anna-3.3.lemmatizer.model -g ./models/CoNLL2009-ST-English-ALL.anna-3.3.postagger.model -p ./models/CoNLL2009-ST-English-ALL.anna-3.3.parser.model -x ./tools/TextPro2.0/ -d ./models/catena-event-dct.model -t ./models/catena-event-timex.model -e ./models/catena-event-event.model -c ./models/catena-causal-event-event.model -b -m ./data/Catena-train_COL/ -u ./data/Causal-TimeBank_COL/
 ```
 
-5. This will take the input from the folder CATENA-finall/data/Example-col/ as the test data and will produce the output(with relations) on the console.
-6. To test accuracy, run Catena-finall\src\catena\embedding\experiments\EvaluateTimeBankDenseCrossVal.java
-7. Voila, we have a working model.
+4. This will take the input from the folder CATENA-finall/data/Example-col/ as the test data and will produce the output(with relations) on the console.
+5. To test accuracy, run Catena-finall\src\catena\embedding\experiments\EvaluateTimeBankDenseCrossVal.java
+6. Voila, we have a working model.
