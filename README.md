@@ -16,7 +16,8 @@ This Project is the replication of https://github.com/paramitamirza/CATENA. The 
    https://drive.google.com/file/d/1H7BOxzXGV0Y9TRilac6pxWWr6F8lkKEW/view?usp=sharing
    Instrucion: Download the above file. Place it in the directory: CATENA-finall/resourse/wnjpn.db
 3. run the project on intellij. 
-4. ```Choose your parameters.
+4. ```
+5.Choose your parameters.
  -i,--input <arg>        Input TimeML file/directory path
  -f,--col                (optional) Input files are in column format (.col)
  -tl,--tlinks <arg>      (optional) Input file containing list of gold temporal links
